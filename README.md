@@ -113,9 +113,9 @@ Execution halts automatically when `n = 1`.
 ```
 collatz-visualizer/
 │
-├── index.html           # UI structure and layout
-├── style.css              # Visual design and responsiveness
-├── script.js               # Core logic and visualization handling
+├── index.html    # UI structure and layout
+├── style.css     # Visual design and responsiveness
+├── script.js     # Core logic and visualization handling
 └── README.md     # Project documentation
 ```
 
