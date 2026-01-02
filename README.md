@@ -139,6 +139,11 @@ Then open the application:
 - Very large starting values may result in long execution times.
 - JavaScript number precision limits apply for extremely large integers.
 
+## References
+
+- <a href="https://cses.fi/problemset/task/1068">CSES Problem Set – Weird Algorithm (1068)</a>
+- <a href="https://en.wikipedia.org/wiki/Collatz_conjecture">Wikipedia – Collatz Conjecture</a>
+
 ## Contributions & Extensions
 
 Contributions are welcome.
