@@ -1,11 +1,10 @@
 # Collatz Conjecture Visualizer
 
-https://github.com/ayushkcs/collatz-visualizer/blob/main/demo.mp4
-
-
 - An interactive, browser-based visualization of the `Collatz Conjecture` that transforms an abstract number theory problem into a dynamic, visual experience.
 
 - This project allows users to explore how simple deterministic rules can generate surprisingly complex numerical behavior.
+
+![Collatz Conjecture Visualizer](CollatzConjectureVisualizer.gif)
 
 ## Overview
 
